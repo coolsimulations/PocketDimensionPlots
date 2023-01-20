@@ -1,0 +1,44 @@
+{
+  "modmenu.guilded": "Guilded",
+  "pdp.name": "PocketDimensionPlots",
+
+  "pdp.commands.pdp.teleport_into_player_plot": "Teleportuję do działki gracza %s...",
+  "pdp.commands.pdp.teleport_into_plot": "Teleportuję do działki...",
+  "pdp.commands.pdp.teleport_outside_plot": "Teleportuję na zewnątrz...",
+  "pdp.commands.pdp.teleport_outside_plot.owner_left_plot": "Teleportuję na zewnątrz, ponieważ właściciel opuścił działkę...",
+  "pdp.commands.pdp.teleport_outside_plot.owner_left_game": "Teleportuję na zewnątrz, ponieważ właściciel opuścił grę...",
+  "pdp.commands.pdp.teleport_outside_plot.owner_not_online": "Teleportuję na zewnątrz, ponieważ właściciel jest offline...",
+  "pdp.commands.pdp.teleport_outside_plot.owner_kicked": "Teleportuję na zewnątrz, ponieważ właściciel ciebie wyrzucił...",
+
+  "pdp.commands.pdp.create_plot": "Kliknij rozmiar wyspy spawnu, aby utworzyć działkę: %s %s",
+  "pdp.commands.pdp.create_plot.small": "[Mały]",
+  "pdp.commands.pdp.create_plot.large": "[Duży]",
+  "pdp.commands.pdp.create_plot.tooltip": "Wyspa o rozmiarze %sx%sx%s bloków z %s",
+
+  "pdp.commands.pdp.set_safe": "Ustawiono spawn działki",
+  "pdp.commands.pdp.set_safe.not_owner": "Nie możesz ustawić spawnu tej działki!",
+
+  "pdp.commands.pdp.Kick": "%s został wyrzucony z działki",
+  "pdp.commands.pdp.Kick.admin": "Nie możesz wyrzucić administratorów!",
+  "pdp.commands.pdp.Kick.whitelist": "Nie możesz wyrzucić graczy z białej listy na tej działce!",
+  "pdp.commands.pdp.Kick.no_plot": "%s nie jest na działce, z której możesz go wyrzucić!",
+
+  "pdp.commands.pdp.enter.send": "Wysłano prośbę o teleportację",
+  "pdp.commands.pdp.enter.recieve": "%s właśnie poprosił o wejście na twoją działkę! Kliknij tutaj lub wpisz /pdp accept %s, aby zaakceptować",
+
+  "pdp.commands.pdp.accept": "Prośba zaakceptowana",
+  "pdp.commands.pdp.accept.no_request": "%s nie wysłał do ciebie prośby!",
+  "pdp.commands.pdp.request_expired": "Prośba wygasła",
+
+  "pdp.commands.pdp.sameTarget.Kick": "Nie możesz wyrzucić samego siebie!",
+  "pdp.commands.pdp.sameTarget.whitelist": "Nie możesz dodać samego siebie do białej listy!",
+  "pdp.commands.pdp.sameTarget.enter": "Użyj /pdp, aby wejść na swoją działkę!",
+  "pdp.commands.pdp.sameTarget.accept": "Nie możesz zaakceptować własnej prośby!",
+  "pdp.commands.pdp.not_player": "Musisz być graczem, aby to zrobić!",
+  "pdp.commands.pdp.has_island": "Już posiadasz działkę!",
+  "pdp.commands.pdp.no_plot": "Najpierw musisz utworzyć działkę!",
+  "pdp.commands.pdp.other_no_plot": "%s nie posiada działki!",
+  "pdp.commands.pdp.need_whitelist": "Nie jesteś na białej liście tej działki!",
+  "pdp.commands.pdp.not_in_plot": "%s nie jest na działce!",
+  "pdp.commands.pdp.gobber" :"gobber"
+}
